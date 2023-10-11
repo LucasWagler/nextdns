@@ -8,6 +8,6 @@ require (
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/vishvananda/netlink v1.1.0
 	github.com/vishvananda/netns v0.0.0-20210104183010-2eb08e3e575f // indirect
-	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d
-	golang.org/x/sys v0.0.0-20210823070655-63515b42dcdf
+	golang.org/x/net v0.17.0
+	golang.org/x/sys v0.13.0
 )
